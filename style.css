@@ -1,0 +1,60 @@
+.header{
+    background: #1E201E;
+}
+
+.mnsc, .card-title, .card-text{
+    color: beige;
+    font-family: monospace;
+}
+
+.clight{
+    color: beige;
+}
+
+
+.title{
+    background: #1E201E;
+}
+
+.title-container{
+    height: 70vh;
+}
+
+.profile{
+    background: #1e201eeb;
+}
+
+.profile-img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.skills{
+    background: #1E201E;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card{
+    height: 200px;
+    border: none;
+}
+
+.card-body{
+    background: #1e201eeb;
+}
+
+li{
+    list-style: none;
+}
+
+.footer{
+    background: #1e201eeb;
+}
